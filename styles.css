@@ -36,7 +36,7 @@ font-family: 'Teko', sans-serif
 /* Formulario do evento */
 #descriçao {
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), 
-    url("../img/primeira.jpg");
+    url("primeira.jpg");
     background-position: center;
     background-size: cover;
     height: 85vh;
@@ -122,7 +122,7 @@ font-family: 'Teko', sans-serif
 /* Seção de beneficios */
 #key-beneficios h2 {
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), 
-    url("../img/fundo.webp");
+    url("fundo.webp");
     text-align: center;
     padding: 2em;
     font-weight: 500; 
@@ -160,15 +160,15 @@ font-family: 'Teko', sans-serif
 }
 
 #beneficio-1 {
-    background-image: url("../img/bn1.jpg");
+    background-image: url("bn1.jpg");
 }
 
 #beneficio-2 {
-    background-image: url("../img/bn2.jpg");
+    background-image: url("bn2.jpg");
 }
 
 #beneficio-3 {
-    background-image: url("../img/bn3.jpg");
+    background-image: url("bn3.jpg");
 }
 
 /* Localização do evento */
@@ -176,7 +176,7 @@ font-family: 'Teko', sans-serif
 #local {
     height: 400px;
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), 
-    url("../img/c.jpg");
+    url("c.jpg");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -269,7 +269,7 @@ font-family: 'Teko', sans-serif
 #cta {
     height: 400px;
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), 
-    url("../img/b.jpg");
+    url("b.jpg");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -296,7 +296,7 @@ font-size: 1.5em;
 
 footer {
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), 
-    url("../img/fundo.webp");
+    url("fundo.webp");
     text-align: center;
     height: 150px;
     display: flex;
@@ -318,10 +318,3 @@ footer p {
 footer span {
     font-weight: bold;
 }
-
-
-
-
-
-
-
